@@ -1,0 +1,12 @@
+{
+  "name": "“AppAtvB",
+  "displayName": "“AppAtvB",
+  "expo": {
+    "name": "“AppAtvB",
+    "slug": "“AppAtvB",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
